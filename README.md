@@ -4,3 +4,5 @@ to run the app:
 
 `node index.js`
 
+DB Name is `BookCollection`
+
